@@ -179,5 +179,3 @@ Masuk kembali ke CLI lalu masukkan perintah beikut : `php spark db:seed UserSeed
 
 ![Image](img/ss5.png)
 
-## Done
-# Panjang Umur Untuk Semua Hal-Hal Baik
